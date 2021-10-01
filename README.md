@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, Ravi Kumar
+#### Web Developer
+![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**ravikumarsingh9907/ravikumarsingh9907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ravi Kumar, I'm from India. I'm a Student. I'm really enjoying my college life. 
 
-Here are some ideas to get you started:
+Skills: JAVA / JS / HTML / CSS /S
 
-- 🔭 I’m currently working on ...Project (Web App.)
-- 🌱 I’m currently learning ... MERN Stack
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...ravikumarsingh9907@gmail.com
-- 😄 Pronouns: ...Rv
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
