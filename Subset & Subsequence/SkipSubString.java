@@ -1,11 +1,18 @@
+/*
+Write a progrm to skip specific sub string from the String. Suppose we have to skip "ravis" from string.
+INPUT = "bbccravisdah"
+OUTPUT = bbccdah (ravis removed )
+*/
+
+
 public class SkipSubString {
     public static void main(String[] args) {
-        String value1 = "bbccappledah";
+        String value1 = "bbccravisdah";
         SubString("", value1); // it will skip apple from the String
 
         System.out.println(); // for a line gap
 
-        String value2 = "ccbbapplehad";
+        String value2 = "ccbbravishad";
         System.out.println(SubStringRet(value2));
     }
     // without return statement------------------------------------------------
@@ -16,7 +23,7 @@ public class SkipSubString {
         }
 
         char ch = up.charAt(0);
-        if(up.startsWith("apple")) {
+        if(up.startsWith("ravis")) {
             SubString(p, up.substring(5));
         }
         else {
@@ -31,7 +38,7 @@ public class SkipSubString {
         }
 
         char ch = up.charAt(0);
-        if(up.startsWith("apple")) {
+        if(up.startsWith("ravis")) {
             return SubStringRet(up.substring(5));
         }
         else {
